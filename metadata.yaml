@@ -1,0 +1,52 @@
+_repo: Next-Door-NeighboursA-Comedy-in-Three-Acts_38759
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+  - agent_name: Destouches, Néricault
+    aliases:
+    - Destouches, Philippe Néricault
+    - Destouches, Philippe Nericault
+    - Néricault, Philippe
+    - Destouches, N. (Néricault)
+    birthdate: 1680
+    deathdate: 1754
+    gutenberg_agent_id: '1917'
+    url: http://www.gutenberg.org/2009/agents/1917
+    wikipedia: http://en.wikipedia.org/wiki/Philippe_Néricault_Destouches
+  - agent_name: Mercier, Louis-Sébastien
+    aliases:
+    - Mercier, Louis-Sebastien
+    - Mercier, L.-S. (Louis-Sébastien)
+    - Mercier, Sebastian
+    - Mercier, Louis Sébastien
+    - Mercier, Sébastian
+    - Mercier, Sébastien
+    birthdate: 1740
+    deathdate: 1814
+    gutenberg_agent_id: '42296'
+    url: http://www.gutenberg.org/2009/agents/42296
+description: '"From the French Dramas L''Indigent & Le Dissipateur" [by Mercier and
+  Destouches].'
+gutenberg_issued: '2012-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama (Comedy)'
+- !lcc 'PR'
+title: 'Next Door Neighbours: A Comedy; In Three Acts'
+url: http://www.gutenberg.org/ebooks/38759
