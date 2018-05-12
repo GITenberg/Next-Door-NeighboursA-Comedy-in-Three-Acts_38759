@@ -37,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42296
 description: '"From the French Dramas L''Indigent & Le Dissipateur" [by Mercier and
   Destouches].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38759#Next-Door-NeighboursA-Comedy-in-Three-Acts
 gutenberg_issued: '2012-02-04'
 gutenberg_type: Text
 identifiers:
